@@ -1,5 +1,11 @@
 @import url('https://fonts.google.com/specimen/Outfit');
 
+@media only screen and (max-width: 480px) {
+  body {
+    width:375px;
+  }
+}
+
 body{
     display:flex;
     transform: translate(100px, 100px);
@@ -7,12 +13,6 @@ body{
     width: 100%;
     max-width: 1440px;
     margin: auto;
-}
-
-@media only screen and (max-width: 480px) {
-  body {
-    width:375px;
-  }
 }
 
 .line{
