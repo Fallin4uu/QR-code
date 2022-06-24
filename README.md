@@ -11,7 +11,7 @@
 
 ### screenshot
 
-- ![My_Screenshot](https://github.com/Fallin4uu/QR-code/blob/main/screenshot.jpg?raw=true)
+- ![My_Screenshot](https://github.com/Fallin4uu/QR-code/blob/main/QR-code/screenshot.jpg?raw=true)
 
 
 ### Links
