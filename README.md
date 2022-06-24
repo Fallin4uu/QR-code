@@ -17,7 +17,7 @@
 ### Links
 
 - Solution URL: (https://github.com/Fallin4uu/QR-code)
-- Live Site URL: 
+- Live Site URL: (https://fallin4uu.github.io/QR-code/QR-code/index.html)
 
 ## My process
 - I first used flexbox I slowly got down from element to element and used font color accordingly. The html part was easy and those paragraphs had to be divided in div elements to style them. It was comparatively easy but the hard part was to use the margin part as I couldn't first sort out that and the transform element was the part I liked the most and this way I styled the html code.
